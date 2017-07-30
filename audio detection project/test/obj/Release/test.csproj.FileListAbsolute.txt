@@ -1,0 +1,9 @@
+C:\Users\xwy\Documents\Visual Studio 2013\Projects\Audiotranscription\C++ Audio boundary detection\audio detection project\test\bin\Release\test.exe.config
+C:\Users\xwy\Documents\Visual Studio 2013\Projects\Audiotranscription\C++ Audio boundary detection\audio detection project\test\bin\Release\test.exe
+C:\Users\xwy\Documents\Visual Studio 2013\Projects\Audiotranscription\C++ Audio boundary detection\audio detection project\test\bin\Release\test.pdb
+C:\Users\xwy\Documents\Visual Studio 2013\Projects\Audiotranscription\C++ Audio boundary detection\audio detection project\test\obj\Release\test.csprojResolveAssemblyReference.cache
+C:\Users\xwy\Documents\Visual Studio 2013\Projects\Audiotranscription\C++ Audio boundary detection\audio detection project\test\obj\Release\test.exe
+C:\Users\xwy\Documents\Visual Studio 2013\Projects\Audiotranscription\C++ Audio boundary detection\audio detection project\test\obj\Release\test.pdb
+D:\vsprojects\speech-split\audio detection project\test\bin\Release\test.exe.config
+D:\vsprojects\speech-split\audio detection project\test\obj\Release\test.exe
+D:\vsprojects\speech-split\audio detection project\test\obj\Release\test.pdb

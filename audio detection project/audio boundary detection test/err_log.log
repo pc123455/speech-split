@@ -1,0 +1,468 @@
+
+<<< Warning >>>
+  * Time:      20:29:20 周二 十二月 08 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   modeler (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  vos_env_configs_read_core
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    ------------------------------------------------------------
+             Call   Block
+             Count  Line#  Function
+    ------------------------------------------------------------
+     0)          1   5977  m3_main
+     1)          1   1637  Op_Std_Open
+     2)          1   2451  Vos_Env_Std_Sources
+     3)          1   9549  vos_env_configs_read
+     4)          1   9585  vos_env_configs_read_core
+    ------------------------------------------------------------
+
+
+<<< Warning >>>
+  * Time:      20:47:56 周二 十二月 08 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   modeler (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  vos_env_configs_read_core
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    ------------------------------------------------------------
+             Call   Block
+             Count  Line#  Function
+    ------------------------------------------------------------
+     0)          1   5977  m3_main
+     1)          1   1637  Op_Std_Open
+     2)          1   2451  Vos_Env_Std_Sources
+     3)          1   9549  vos_env_configs_read
+     4)          1   9585  vos_env_configs_read_core
+    ------------------------------------------------------------
+
+
+<<< Warning >>>
+  * Time:      20:51:24 周二 十二月 08 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   modeler (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  vos_env_configs_read_core
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    ------------------------------------------------------------
+             Call   Block
+             Count  Line#  Function
+    ------------------------------------------------------------
+     0)          1   5977  m3_main
+     1)          1   1637  Op_Std_Open
+     2)          1   2451  Vos_Env_Std_Sources
+     3)          1   9549  vos_env_configs_read
+     4)          1   9585  vos_env_configs_read_core
+    ------------------------------------------------------------
+
+
+<<< Warning >>>
+  * Time:      20:52:42 周二 十二月 08 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   modeler (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  vos_env_configs_read_core
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    ------------------------------------------------------------
+             Call   Block
+             Count  Line#  Function
+    ------------------------------------------------------------
+     0)          1   5977  m3_main
+     1)          1   1637  Op_Std_Open
+     2)          1   2451  Vos_Env_Std_Sources
+     3)          1   9549  vos_env_configs_read
+     4)          1   9585  vos_env_configs_read_core
+    ------------------------------------------------------------
+
+
+<<< Warning >>>
+  * Time:      20:55:43 周二 十二月 08 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   modeler (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  vos_env_configs_read_core
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    ------------------------------------------------------------
+             Call   Block
+             Count  Line#  Function
+    ------------------------------------------------------------
+     0)          1   5977  m3_main
+     1)          1   1637  Op_Std_Open
+     2)          1   2451  Vos_Env_Std_Sources
+     3)          1   9549  vos_env_configs_read
+     4)          1   9585  vos_env_configs_read_core
+    ------------------------------------------------------------
+
+
+<<< Warning >>>
+  * Time:      20:55:56 周二 十二月 08 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   modeler (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  vos_env_configs_read_core
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    ------------------------------------------------------------
+             Call   Block
+             Count  Line#  Function
+    ------------------------------------------------------------
+     0)          1   5977  m3_main
+     1)          1   1637  Op_Std_Open
+     2)          1   2451  Vos_Env_Std_Sources
+     3)          1   9549  vos_env_configs_read
+     4)          1   9585  vos_env_configs_read_core
+    ------------------------------------------------------------
+
+
+<<< Warning >>>
+  * Time:      20:11:37 周三 十二月 16 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   modeler (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  vos_env_configs_read_core
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    ------------------------------------------------------------
+             Call   Block
+             Count  Line#  Function
+    ------------------------------------------------------------
+     0)          1   5977  m3_main
+     1)          1   1637  Op_Std_Open
+     2)          1   2451  Vos_Env_Std_Sources
+     3)          1   9549  vos_env_configs_read
+     4)          1   9585  vos_env_configs_read_core
+    ------------------------------------------------------------
+
+
+<<< Warning >>>
+  * Time:      20:12:19 周三 十二月 16 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   modeler (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  vos_env_configs_read_core
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    ------------------------------------------------------------
+             Call   Block
+             Count  Line#  Function
+    ------------------------------------------------------------
+     0)          1   5977  m3_main
+     1)          1   1637  Op_Std_Open
+     2)          1   2451  Vos_Env_Std_Sources
+     3)          1   9549  vos_env_configs_read
+     4)          1   9585  vos_env_configs_read_core
+    ------------------------------------------------------------
+
+
+<<< Warning >>>
+  * Time:      20:19:56 周三 十二月 16 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   modeler (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  vos_env_configs_read_core
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    ------------------------------------------------------------
+             Call   Block
+             Count  Line#  Function
+    ------------------------------------------------------------
+     0)          1   5977  m3_main
+     1)          1   1637  Op_Std_Open
+     2)          1   2451  Vos_Env_Std_Sources
+     3)          1   9549  vos_env_configs_read
+     4)          1   9585  vos_env_configs_read_core
+    ------------------------------------------------------------
+
+
+<<< Warning >>>
+  * Time:      20:20:20 周三 十二月 16 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   modeler (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  vos_env_configs_read_core
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    ------------------------------------------------------------
+             Call   Block
+             Count  Line#  Function
+    ------------------------------------------------------------
+     0)          1   5977  m3_main
+     1)          1   1637  Op_Std_Open
+     2)          1   2451  Vos_Env_Std_Sources
+     3)          1   9549  vos_env_configs_read
+     4)          1   9585  vos_env_configs_read_core
+    ------------------------------------------------------------
+
+
+<<< Warning >>>
+  * Time:      20:21:11 周三 十二月 16 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   modeler (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  vos_env_configs_read_core
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    ------------------------------------------------------------
+             Call   Block
+             Count  Line#  Function
+    ------------------------------------------------------------
+     0)          1   5977  m3_main
+     1)          1   1637  Op_Std_Open
+     2)          1   2451  Vos_Env_Std_Sources
+     3)          1   9549  vos_env_configs_read
+     4)          1   9585  vos_env_configs_read_core
+    ------------------------------------------------------------
+
+
+<<< Warning >>>
+  * Time:      20:21:26 周三 十二月 16 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   modeler (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  vos_env_configs_read_core
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    ------------------------------------------------------------
+             Call   Block
+             Count  Line#  Function
+    ------------------------------------------------------------
+     0)          1   5977  m3_main
+     1)          1   1637  Op_Std_Open
+     2)          1   2451  Vos_Env_Std_Sources
+     3)          1   9549  vos_env_configs_read
+     4)          1   9585  vos_env_configs_read_core
+    ------------------------------------------------------------
+
+
+<<< Warning >>>
+  * Time:      22:03:12 周三 十二月 16 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   modeler (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  vos_env_configs_read_core
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    ------------------------------------------------------------
+             Call   Block
+             Count  Line#  Function
+    ------------------------------------------------------------
+     0)          1   5977  m3_main
+     1)          1   1637  Op_Std_Open
+     2)          1   2451  Vos_Env_Std_Sources
+     3)          1   9549  vos_env_configs_read
+     4)          1   9585  vos_env_configs_read_core
+    ------------------------------------------------------------
+
+
+<<< Warning >>>
+  * Time:      22:03:25 周三 十二月 16 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   modeler (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  vos_env_configs_read_core
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    ------------------------------------------------------------
+             Call   Block
+             Count  Line#  Function
+    ------------------------------------------------------------
+     0)          1   5977  m3_main
+     1)          1   1637  Op_Std_Open
+     2)          1   2451  Vos_Env_Std_Sources
+     3)          1   9549  vos_env_configs_read
+     4)          1   9585  vos_env_configs_read_core
+    ------------------------------------------------------------
+
+
+<<< Warning >>>
+  * Time:      22:08:16 周三 十二月 16 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   op_runsim (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  vos_env_configs_read_core
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    ------------------------------------------------------------
+             Call   Block
+             Count  Line#  Function
+    ------------------------------------------------------------
+     0)          1    959  m3_main
+     1)          1   1614  Op_Std_Open
+     2)          1   2451  Vos_Env_Std_Sources
+     3)          1   9549  vos_env_configs_read
+     4)          1   9585  vos_env_configs_read_core
+    ------------------------------------------------------------
+
+
+<<< Warning >>>
+  * Time:      22:08:17 周三 十二月 16 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   op_runsim_opt (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  Function Name Unavailable
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    [NOTE: Optimized libraries used; call stack is incomplete ]
+    [For detailed call stack, set 'kernel_type' to development]
+    [or recompile models with 'comp_trace_info' set to TRUE. ]
+    ----------------------------------------------
+    [No function call stack information available]
+    ----------------------------------------------
+
+<<< Warning >>>
+  * Time:      22:09:18 周三 十二月 16 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   op_runsim (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  vos_env_configs_read_core
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    ------------------------------------------------------------
+             Call   Block
+             Count  Line#  Function
+    ------------------------------------------------------------
+     0)          1    959  m3_main
+     1)          1   1614  Op_Std_Open
+     2)          1   2451  Vos_Env_Std_Sources
+     3)          1   9549  vos_env_configs_read
+     4)          1   9585  vos_env_configs_read_core
+    ------------------------------------------------------------
+
+
+<<< Warning >>>
+  * Time:      22:09:18 周三 十二月 16 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   op_runsim_opt (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  Function Name Unavailable
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    [NOTE: Optimized libraries used; call stack is incomplete ]
+    [For detailed call stack, set 'kernel_type' to development]
+    [or recompile models with 'comp_trace_info' set to TRUE. ]
+    ----------------------------------------------
+    [No function call stack information available]
+    ----------------------------------------------
+
+<<< Warning >>>
+  * Time:      22:12:21 周三 十二月 16 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   op_runsim (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  vos_env_configs_read_core
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    ------------------------------------------------------------
+             Call   Block
+             Count  Line#  Function
+    ------------------------------------------------------------
+     0)          1    959  m3_main
+     1)          1   1614  Op_Std_Open
+     2)          1   2451  Vos_Env_Std_Sources
+     3)          1   9549  vos_env_configs_read
+     4)          1   9585  vos_env_configs_read_core
+    ------------------------------------------------------------
+
+
+<<< Warning >>>
+  * Time:      22:12:21 周三 十二月 16 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   op_runsim_opt (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  Function Name Unavailable
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    [NOTE: Optimized libraries used; call stack is incomplete ]
+    [For detailed call stack, set 'kernel_type' to development]
+    [or recompile models with 'comp_trace_info' set to TRUE. ]
+    ----------------------------------------------
+    [No function call stack information available]
+    ----------------------------------------------
+
+<<< Warning >>>
+  * Time:      10:47:03 周四 十二月 17 2015
+  * Product:   Generic Product (32-bit)
+  * Program:   modeler (Version 17.5.A PL6 Build 13309 32-bit)
+  * System:    Windows NT 6.1 Build 7601
+  * Package:   Vos (Virtual Operating System) / Env (Environment Variable)
+  * Function:  vos_env_configs_read_core
+  * Error:     Attempt to open environment file failed
+               File Path: C:\Program Files (x86)\Riverbed EDU\\17.5.A\sys\configs\global_prefs\licensing.ef
+
+  * Function call stack: (builds down)
+    ------------------------------------------------------------
+             Call   Block
+             Count  Line#  Function
+    ------------------------------------------------------------
+     0)          1   5977  m3_main
+     1)          1   1637  Op_Std_Open
+     2)          1   2451  Vos_Env_Std_Sources
+     3)          1   9549  vos_env_configs_read
+     4)          1   9585  vos_env_configs_read_core
+    ------------------------------------------------------------
+

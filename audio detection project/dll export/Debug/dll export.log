@@ -1,0 +1,15 @@
+﻿生成启动时间为 2016/11/23 20:56:43。
+     1>项目“C:\Users\xwy\Documents\Visual Studio 2013\Projects\Audiotranscription\C++ Audio boundary detection\audio detection project\dll export\dll export.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D DLLEXPORT_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\dll export.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt function.cpp
+         function.cpp
+     1>c:\users\xwy\documents\visual studio 2013\projects\audiotranscription\c++ audio boundary detection\audio detection project\dll export\function.cpp(1): warning C4627: “#include "function.h"”:  在查找预编译头使用时跳过
+                 将指令添加到“stdafx.h”或重新生成预编译头
+     1>c:\users\xwy\documents\visual studio 2013\projects\audiotranscription\c++ audio boundary detection\audio detection project\dll export\function.cpp(2): warning C4627: “#include <fstream>”:  在查找预编译头使用时跳过
+                 将指令添加到“stdafx.h”或重新生成预编译头
+     1>c:\users\xwy\documents\visual studio 2013\projects\audiotranscription\c++ audio boundary detection\audio detection project\dll export\function.cpp(16): fatal error C1010: 在查找预编译头时遇到意外的文件结尾。是否忘记了向源中添加“#include "stdafx.h"”?
+     1>已完成生成项目“C:\Users\xwy\Documents\Visual Studio 2013\Projects\Audiotranscription\C++ Audio boundary detection\audio detection project\dll export\dll export.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.11

@@ -1,0 +1,7 @@
+/obj
+/out
+/Debug
+/Release
+*.sdf
+*.suo
+*.opensdf

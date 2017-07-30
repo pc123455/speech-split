@@ -1,0 +1,4 @@
+LIBRARY "dll export"
+
+EXPORTS
+getlen
